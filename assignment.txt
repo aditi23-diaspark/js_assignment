@@ -1,0 +1,25 @@
+assignment-1 (19/06/2019)
+https://jsfiddle.net/fy4ucxvp/ (CI)
+https://jsfiddle.net/pvo3u086/3/  (full name)
+
+assignment-2 (20/06/2019)
+https://jsfiddle.net/g7bcemka/ (month find)
+https://jsfiddle.net/qh3Lpv2e/ (CI with math.pow)
+
+assignment-3 (26/06/2019)
+https://jsfiddle.net/bk46a9ot/1/ (string program)
+https://jsfiddle.net/ekzq0v35/ (factorial)
+
+assignment-4 (27/06/2019)
+https://jsfiddle.net/63ahpew9/ (longest word)
+https://jsfhiddle.net/aLk1mz9h/ (current date)
+https://jsfiddle.net/7fscd94y/  (1st jan sunday)
+https://jsfiddle.net/who0d5a6/  (number of days left for christmis)
+https://jsfiddle.net/Lcrnxt5e/ (removing letter from string)
+
+assignment-5 (DOM)
+https://jsfiddle.net/2ocmfwpg/1/  (current date & day)
+https://jsfiddle.net/3oxvgmk6/  (find year is leap year or not)
+https://jsfiddle.net/nx63jhk0/  (number matching)
+https://jsfiddle.net/who0d5a6/  (number of days left for christmis)
+https://jsfiddle.net/nx63jhk0/  (number matching)

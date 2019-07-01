@@ -23,3 +23,5 @@ https://jsfiddle.net/3oxvgmk6/  (find year is leap year or not)
 https://jsfiddle.net/nx63jhk0/  (number matching)
 https://jsfiddle.net/who0d5a6/  (number of days left for christmis)
 https://jsfiddle.net/nx63jhk0/  (number matching)
+ assignment-6
+https://jsfiddle.net/7rfg0yev/1/ (Calculator)
